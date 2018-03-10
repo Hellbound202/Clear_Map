@@ -1,3 +1,5 @@
 # Clear_Map
 "Clear Map" is a Game from a "Retro Arcade Game Controller"
 ( Only been Tested on Windows 10 64 Bit System )
+
+If a Stage is To Hard then Just Delete it From the Stages Folder and Open "Stage Creator.exe" and Create a New Stage
